@@ -5,7 +5,7 @@ minify = true
 
 [[kv_namespaces]]
 binding = "SIREN"
-id = "216a79ea5462492da7aa737cc8d7a2af"
+id = "3b4661d3444940da92d6d88e963d13da"
 
 [build]
 command = "cargo install worker-build && worker-build --release"
