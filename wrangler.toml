@@ -4,8 +4,8 @@ compatibility_date = "2024-05-23"
 minify = true
 
 [[kv_namespaces]]
-binding = "SIREN"
-id = "ee99954b787b458fa758d68e13daef85"
+binding = "IWAN"
+id = "45c6904efaf249b9ab8cf13277bf52f9"
 
 [build]
 command = "cargo install worker-build && worker-build --release"
@@ -14,6 +14,6 @@ command = "cargo install worker-build && worker-build --release"
 build = { command = "cargo install worker-build && worker-build --dev" }
 
 [vars]
-UUID = "e5b312d3-4c90-461a-a789-45f647fc6fb4"
+UUID = "84baf0ae-c8c5-413b-a13c-fcfced123eba"
 MAIN_PAGE_URL = "https://raw.githubusercontent.com/iwansaja/Siren/refs/heads/master/web/index.html"
 SUB_PAGE_URL = "https://raw.githubusercontent.com/iwansaja/Siren/refs/heads/master/web/sub.html"
