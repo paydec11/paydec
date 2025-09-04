@@ -1,4 +1,4 @@
-name = "iwan"
+name = "siren"
 main = "build/worker/shim.mjs"
 compatibility_date = "2025-08-15"
 minify = true
