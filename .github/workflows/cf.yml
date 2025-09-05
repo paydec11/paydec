@@ -15,8 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     environment: cf
     steps:
-      - name: change Rust version
-        run: rustup override set 1.86.0
       - uses: actions/checkout@v4
       - name: deploy
         uses: cloudflare/wrangler-action@v3
