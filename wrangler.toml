@@ -4,8 +4,8 @@ compatibility_date = "2025-08-15"
 minify = true
 
 [[kv_namespaces]]
-binding = "IWAN"
-id = "45c6904efaf249b9ab8cf13277bf52f9"
+binding = "SIREN"
+id = "90b09e2f34944a2b907004dae2a515d3"
 
 [build]
 command = "cargo install worker-build && worker-build --release"
